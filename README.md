@@ -1,4 +1,4 @@
-# 📝 Todo App - Backend API
+#  Todo App - Backend API
 
 > API REST para gestión de tareas con Node.js, Express y MongoDB
 
@@ -7,7 +7,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-success.svg)](https://www.mongodb.com/cloud/atlas)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 
-**🌐 Demo en vivo:** https://todo-app-backend-oj87.onrender.com
+**Demo en vivo:** https://todo-app-backend-oj87.onrender.com
 
 **⚠️ Nota importante:** El servidor usa el plan gratuito de Render, que se "duerme" después de 15 minutos de inactividad. La primera petición puede tardar ~30 segundos mientras el servidor "despierta", pero las siguientes son instantáneas. Esto es normal en el tier gratuito.
 
