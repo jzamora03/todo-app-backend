@@ -45,7 +45,7 @@ cp .env.example .env
 npm run dev
 ```
 
-### Opción 3: Ejecutar con Docker
+### Opción 3: Ejecutar con Docker (Tener Docker Abierto)
 ```bash
 # Construir y ejecutar
 docker build -t todo-app-backend .
